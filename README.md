@@ -1,4 +1,3 @@
-This project is also available live with Firebse Hosting [Diary19](https://rrrf-40797.firebaseapp.com/login).
 
 ## Available Scripts
 
