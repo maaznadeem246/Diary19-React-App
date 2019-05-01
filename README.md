@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is also available live with Firebse Hosting [Diary19](https://rrrf-40797.firebaseapp.com/login).
 
 ## Available Scripts
 
